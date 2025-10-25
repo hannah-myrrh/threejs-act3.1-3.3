@@ -106,7 +106,7 @@ activity3_3/
 A fully interactive 3D webpage that reacts to scrolling and cursor movement, enhanced with glowing particles.
 
 
-## ⚡ How to Run Locally
+## How to Run Locally
 
 1. Place each activity folder (`activity3_1`, `activity3_2`, `activity3_3`) in one directory.
 2. Open the folder in **VS Code**.
