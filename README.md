@@ -1,4 +1,4 @@
-# threejs-act3.1-3.3- (Three.js Interactive Graphics)
+# threejs-act3.1-3.3 (Three.js Interactive Graphics)
 
 This collection includes **Three.js** activities demonstrating **particles, galaxy generation**, and **scroll-based animation**.
 All projects are built using **CDN-based imports**, so no installation or build tools are required — just open in your browser using **Live Server** or deploy to **GitHub Pages / Vercel**.
